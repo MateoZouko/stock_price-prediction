@@ -1,6 +1,3 @@
-Creating a comprehensive README file is crucial for making your project easy to understand and use by others. Here's an example README file for your stock price prediction project:
-
----
 
 # Stock Price Prediction
 
