@@ -32,7 +32,6 @@ root/
 │   │   └── stock_data.csv
 │   ├── processed/
 │   │   └── processed_data.csv
-│   │   └── processed_data_with_features.csv
 │   │   └── predictions.csv
 │   │   └── stock_price_predictions.png
 ├── src/
@@ -90,7 +89,7 @@ The project uses historical stock data which includes columns such as `Date`, `O
 
 ## Model Training
 
-The model is trained using features engineered from the raw stock data, including previous closing price, price difference, moving average, RSI, and MACD. The training process splits the data into training and testing sets and evaluates the model using Mean Squared Error (MSE).
+The model is trained using features engineered from the raw stock data, including previous closing price, price difference and moving average. The training process splits the data into training and testing sets and evaluates the model using Mean Squared Error (MSE).
 
 ## Prediction
 
