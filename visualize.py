@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-import matplotlib.pyplot as plt
 
 def plot_predictions(df, save_path='data/processed/stock_price_predictions.png'):
     plt.figure(figsize=(14, 7))
