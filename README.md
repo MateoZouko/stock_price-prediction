@@ -99,7 +99,3 @@ The project includes functionality to visualize the actual versus predicted stoc
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project’s coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
