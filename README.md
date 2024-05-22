@@ -1,7 +1,7 @@
 
 # Stock Price Prediction
 
-This project aims to predict stock prices using machine learning. It involves loading stock data, preprocessing it, engineering features, training a model, and making predictions. The project also includes a visualization of the actual versus predicted stock prices.
+In this project I trained a Machine Learning model that is able to predict the price of the stock "Apple". During the develompent I load the stock data, preprocess it, engineer the features that I wanted to make the technical analysis, train the model and make the predictions. It also includes a chart that helps to visualize the prediction.
 
 ## Table of Contents
 
