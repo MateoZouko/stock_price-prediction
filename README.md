@@ -18,7 +18,7 @@ In this project I trained a Machine Learning model that is able to predict the p
 
 ## Overview
 
-This project predicts stock prices for a given company using historical stock data. The machine learning model is trained on various features engineered from the raw stock data. The results include a visualization comparing actual and predicted stock prices.
+This task seeks to determine what the value of a company is from the data that is recorded on the stock exchange. A large body of information was analysed so as to help in the development of machine learning models through which specific parameters might be evaluated for stock valuation purposes which would enable one to accurately predict future values without any difficulty whatsoever. The outcomes comprised graphical explanations on market movements where they compared real-time prices with their earlier values that were projected into the future.
 
 ## Project Structure
 
@@ -86,7 +86,7 @@ The project uses historical stock data which includes columns such as `Date`, `O
 
 ## Model Training
 
-The model is trained using features engineered from the raw stock data, including previous closing price, price difference and moving average. The training process splits the data into training and testing sets and evaluates the model using Mean Squared Error (MSE).
+The training model uses features created from raw stock price, such as closing price, price difference, and moving average for prior training data. It trains the model by partitioning the data into two sets and estimates its accuracy using Mean Squared Error (MSE).
 
 ## Prediction
 
@@ -98,4 +98,4 @@ The project includes functionality to visualize the actual versus predicted stoc
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project’s coding standards and includes appropriate tests.
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project’s coding standards.
